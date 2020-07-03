@@ -1,5 +1,7 @@
 # WiFi-password-python-script
 
-> Set-ExecutionPolicy Unrestricted
+## Requirements
+**Python 3.6+**
+**Windows Powershell**
 
-to make it work
+> Set-ExecutionPolicy Unrestricted
